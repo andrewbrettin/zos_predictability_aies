@@ -1,5 +1,5 @@
-# Daily-to-seasonal dynamic sea level predictabilty
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14625155.svg)](https://doi.org/10.5281/zenodo.14625155) -->
+# Code for Brettin, Zanna, and Barnes (2025): daily-to-seasonal dynamic sea level predictabilty
+[![DOI](https://zenodo.org/badge/932964120.svg)](https://doi.org/10.5281/zenodo.14873345)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andrewbrettin/zos_predictability_aies/blob/main/LICENSE.md)
 
