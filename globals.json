@@ -1,0 +1,47 @@
+{
+  "init_years": [
+    1251,
+    1281,
+    1301
+  ],
+  "members": [
+    "011",
+    "012",
+    "013"
+  ],
+  "default_spacechunk": {
+    "time": 1,
+    "lat": 192,
+    "lon": 288
+  },
+  "default_timechunk": {
+    "time": -1,
+    "lat": 48,
+    "lon": 48
+  },
+  "earth_radius": 6378.1,
+  "gravity": 9.81,
+  "rho_ref": 1025,
+  "regions": {
+    "global": {
+      "lat": [
+        -90,
+        90
+      ],
+      "lon": [
+        0,
+        360
+      ]
+    },
+    "global_no_poles": {
+      "lat": [
+        -60,
+        60
+      ],
+      "lon": [
+        0,
+        360
+      ]
+    }
+  }
+}
