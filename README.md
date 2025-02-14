@@ -1,5 +1,5 @@
 # Daily-to-seasonal dynamic sea level predictabilty
-This is the project repository for the paper "Uncertainty-permitting machine learning reveals sources of dynamic sea level predictability across daily-to-seasonal timescales", submitted to [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/index.cfm/ams/publications/journals/artificial-intelligence-for-the-earth-systems/).
+This is the project repository for the paper "Uncertainty-permitting machine learning reveals sources of dynamic sea level predictability across daily-to-seasonal timescales", submitted to Artificial Intelligence for the Earth Systems.
 
 <!-- Preprint:  -->
 
