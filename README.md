@@ -1,4 +1,8 @@
 # Daily-to-seasonal dynamic sea level predictabilty
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14625155.svg)](https://doi.org/10.5281/zenodo.14625155) -->
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andrewbrettin/zos_predictability_aies/blob/main/LICENSE.md)
+
 This is the project repository for the paper "Uncertainty-permitting machine learning reveals sources of dynamic sea level predictability across daily-to-seasonal timescales", submitted to Artificial Intelligence for the Earth Systems.
 
 <!-- Preprint:  -->
