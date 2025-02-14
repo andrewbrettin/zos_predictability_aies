@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: “Brettin”
-  given-names: “Andrew”
+- family-names: "Brettin"
+  given-names: "Andrew"
   orcid: "https://orcid.org/0000-0002-7664-6612"
-title: “Code for Brettin, Zanna, and Barnes (2025): daily-to-seasonal dynamic sea level predictabilty”
+title: "Code for Brettin, Zanna, and Barnes (2025): daily-to-seasonal dynamic sea level predictabilty"
 version: 1.0.0
 doi: 10.5281/zenodo.14873345
 date-released: 2025-02-14
